@@ -6,7 +6,6 @@ const questionSchema = new Schema({
         option1: String,
         option2: String,
         option3: String,
-        email:String,
         correctOption:  String,
     
 },{
